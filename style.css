@@ -1,0 +1,77 @@
+.html-submit-button{
+        border-width: 0px;
+        background-color:chartreuse;
+        border-radius: 50px;
+        font-weight: bolder;
+        color: yellow;
+        font-size: large;
+        width: 125px;
+        height: 35px;
+        font-family:Palatino Linotype;
+    }
+    .html-submit-button:hover{
+        background-color: cyan;
+        cursor: pointer;
+        color: purple;
+    }
+    .html-linear-gradient{
+        background: linear-gradient(#78075a 0%, #ca680c 100%);
+        border-radius: 50px;
+        border-width: 0px;
+        font-weight: bolder;
+        color: yellow;
+        font-size: large;
+        width: 125px;
+        height: 35px;
+        font-family:Palatino Linotype;
+    }
+    .html-linear-gradient:hover{
+        background:linear-gradient(#0cbeca 0%,#78075a 100%);
+        cursor: pointer;
+        color:red;
+    }
+    .html-border-buttons{
+        background: white;
+        border-width: 0px;
+        color: #4309e1;
+        font-weight: bolder;
+        width: 125px;
+        height: 35px;
+        font-size: large;
+    }
+    .html-border-buttons:hover{
+        border-width: 2px;
+        border-color: black;
+        cursor: pointer;
+    }
+    .html-design{
+        background-image: url("https://justcreative.com/wp-content/uploads/2018/11/adobe-cc.jpg");
+        background-size:cover;
+        border-radius: 50px;
+        border-width: 0px;
+        font-weight: bolder;
+        width: 125px;
+        height: 35px;
+        font-size: large;
+        color: white;
+    }
+    .html-design:hover{
+        background-image: url("https://cdn.wallpapersafari.com/26/12/82vpZs.jpg");
+        cursor: pointer;
+    }
+    .html-size{
+        background:rgb(228, 207, 20);
+        border-width: 0px;
+        color:rgb(214, 119, 64);
+        font-weight: bolder;
+        width: 125px;
+        height: 35px;
+        font-size:xx-medium;
+        font-weight: bolder;
+    }
+    .html-size:hover{
+        width:128px;
+        height: 40px;
+        font-size: medium;
+        border-radius: 50px;
+    }
